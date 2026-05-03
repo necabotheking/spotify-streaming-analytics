@@ -13,7 +13,9 @@
 
 
 ## Summary
-This project creates a dynamic dashboard using [my](github.com/necabotheking) extended Spotify streaming data & Spotify’s API 
+This project creates a dynamic dashboard using [my](github.com/necabotheking) extended Spotify streaming data from 2018 to 2023.
+
+Note: The Spotify Web API depreciated some of the key endpoints needed for analyzing the song data
 
 ## Technologies/Project Prerequisites 
 - Python
